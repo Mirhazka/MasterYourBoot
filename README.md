@@ -64,8 +64,7 @@ masteryourboot/
 	- **GParted** pour formater la clé USB
 
 
-## 3. 🚧 Point de départ
-
+## 3. 🚧 Contexte et motivation
 ### 💡 Motivation
 Depuis longtemps, je voulais avoir un dualboot Windows/Linux.
 - 🎮 **Windows** pour les jeux, le multimédia, la bureautique
@@ -124,6 +123,7 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 | Objectif futur  | Dualboot Kubuntu + Windows 11 Famille                             |
 
 ## 5. 💽 Répartition des disques
+
 ### 📌 Actuelle
 
 |Disque|Type|Contenu|
