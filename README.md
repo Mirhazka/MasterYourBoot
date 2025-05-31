@@ -18,7 +18,7 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 - [ ] Installation physique sur l'ordinateur du dualboot
 - [ ] Configuration post-intall (GRUB, mise à jour, pilotes, logiciels, ...)
 - [x] Rédaction du fichier `README.md`
-- [ ] Rédaction du fichier `0-creation-cle-usb.md`
+- [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md)
 - [ ] Rédaction du fichier `1-install-windows11.md`
 - [ ] Rédaction du fichier `2-install-kubuntu.md`
 - [ ] Rédaction du fichier `3-configure-post-install.md`
