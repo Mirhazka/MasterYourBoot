@@ -7,6 +7,8 @@ Ce dépôt documente la mise en place d'un système en **dualboot** avec :
 L'objectif est de créer une procédure reproductible, testée d'abord en machine virtuelle, puis appliquée sur une machine réelle.  
 Les problèmes rencontrés et leurs solutions sont détaillés à chaque étape.
 
+Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](https://www.it-connect.fr/tuto-dual-boot-windows-et-linux-ubuntu-installation-sur-pc/), que j’ai adapté à mes besoins, à ma machine et à mes préférences personnelles (distribution, partitionnement, outils…).
+
 ## 🔄 Avancement du projet
 - [x] Analyse du problème de boot sur Windows 11 Pro
 - [x] Nettoyage via la commande `bcdedit`
@@ -27,7 +29,7 @@ Les problèmes rencontrés et leurs solutions sont détaillés à chaque étape.
 ## 1. 🗂 Arborescence du dépôt 
 Voici comment sera organisé ce dépôt :
 ```
-dualboot-windows11-kubuntu/
+masteryourboot/
 │
 ├── README.md
 ├── 0-creation-cle-usb.md
@@ -86,7 +88,7 @@ bcdedit /delete {identifiant}
 
 > Remplacer `{identifiant}` par le GUID de l’entrée à supprimer (exemple : `{7fc2a9e0-4a0d-11ee-bc5d-806e6f6e6963}`)
 
-Puis vérification via `diskpart` / `diskmgmt.msc` pour s’assurer que tout était en ordre.
+Puis j'ai redémarré mon ordinateur, et je n'ai plus eu ce soucis.
 
 ### 🎯 Conclusion
 
