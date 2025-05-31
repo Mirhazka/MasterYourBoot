@@ -91,7 +91,7 @@ Puis vérification via `diskpart` / `diskmgmt.msc` pour s’assurer que tout ét
 ### 🎯 Conclusion
 
 J’ai décidé de :
-- Réinstaller Windows et Linux proprement
+- Réinstaller Windows et Linux proprement et avec des licences officiels
 - Les installer **sur des disques séparés**
 - Mieux comprendre et gérer le **boot EFI / partitions Recovery**
 - Avoir un système **stable, propre et durable**
