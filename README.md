@@ -122,7 +122,7 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 | ⚙️ OS actuel       | Windows 11 Pro (à remplacer)                                      |
 | ⚙️ OS futur  | Dualboot Kubuntu + Windows 11 Famille                             |
 
-## 5. 💽 Répartition des disques
+## 5. 🖴 Répartition des disques
 
 ### 📌 Actuelle
 
