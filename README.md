@@ -128,21 +128,23 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 
 |Disque|Type|Contenu|
 |---|---|---|
-|0|⚡💾 SSD 250 Go|💻 Windows 11 **Pro** (EFI, FileSystem, Recovery)|
+|0|⚡💾 SSD 250 Go|🪟 Windows 11 **Pro** (EFI, FileSystem, Recovery)|
 |1|⚡💾 SSD 250 Go|➖ Vide|
-|2|🗃️📦 HDD 1 To|📂 Data 1 (750Go), Logiciels (250Go)|
-|3|🗃️📦 HDD 1 To|📂 Data 2 (750Go), Logiciels (250Go)|
+|2|🗃️📦 HDD 1 To|📂 Data 1 (750Go), 🧰 Logiciels (250Go)|
+|3|🗃️📦 HDD 1 To|📂 Data 2 (750Go), 🧰 Logiciels (250Go)|
 |4|🚀⚡ NVMe 2 To|🎮 Jeux vidéo |
 
 ### 🗂️ Répartition souhaitée après réinstallation
 
+Pour mieux compartimenter les données et éviter toute confusion entre les systèmes, chaque OS disposera de son propre disque dur dédié aux fichiers personnels et aux documents.
+
 |Disque|Type|Contenu|
 |---|---|---|
-|0|⚡💾 SSD 250 Go|💻 Windows 11 **Famille** (EFI, FileSystem, Recovery)|
+|0|⚡💾 SSD 250 Go|🪟 Windows 11 **Famille** (EFI, FileSystem, Recovery)|
 |1|⚡💾 SSD 250 Go|🐧 Kubuntu (EFI, FileSystem, Swap)|
-|2|🗃️📦 HDD 1 To|📂 Data I|
-|3|🗃️📦 HDD 1 To|📂 Data II|
-|4|🚀⚡ NVMe 2 To|🎮 Jeux vidéo|
+|2|🗃️📦 HDD 1 To|📂🪟 Data Windows (NTFS)|
+|3|🗃️📦 HDD 1 To|📂🐧 Data Kubuntu (Ext4)|
+|4|🚀⚡ NVMe 2 To|🎮 Divertissements (Accessible seulement depuis Windows)|
 
 ### 🧠 Pourquoi cette organisation ?
 
