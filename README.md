@@ -112,15 +112,15 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 
 | Composant       | Détail                                                            |
 | --------------- | ----------------------------------------------------------------- |
-| Processeur      | AMD Ryzen 5 3600X                                                 |
-| RAM             | G.Skill Ripjaws V Black - 4 x 8 Go (32 Go) - DDR4 3200 MHz - CL16 |
-| Carte graphique | ASUS TUF GeForce RTX 3070 O8G GAMING                              |
-| Carte mère      | ASUS ROG CROSSHAIR VIII HERO WIFI                                 |
-| Refroidissement | ASUS ROG STRIC LC II 360 ARGB AM5                                 |
-| Boîtier         | Corsair iCUE 4000X RGB Tempered Glass (Noir)                      |
-| Alimentation    | ASUS ROG STRIX 850W Gold Aura Edition                             |
-| OS actuel       | Windows 11 Pro (à remplacer)                                      |
-| Objectif futur  | Dualboot Kubuntu + Windows 11 Famille                             |
+| 🧠 Processeur      | AMD Ryzen 5 3600X                                                 |
+| 📀 RAM             | G.Skill Ripjaws V Black - 4 x 8 Go (32 Go) - DDR4 3200 MHz - CL16 |
+| 🎮 Carte graphique | ASUS TUF GeForce RTX 3070 O8G GAMING                              |
+| 🖧 Carte mère      | ASUS ROG CROSSHAIR VIII HERO WIFI                                 |
+| ❄️ Refroidissement | ASUS ROG STRIC LC II 360 ARGB AM5                                 |
+| 🖥️ Boîtier         | Corsair iCUE 4000X RGB Tempered Glass (Noir)                      |
+| 🔌 Alimentation    | ASUS ROG STRIX 850W Gold Aura Edition                             |
+| ⚙️ OS actuel       | Windows 11 Pro (à remplacer)                                      |
+| ⚙️ OS futur  | Dualboot Kubuntu + Windows 11 Famille                             |
 
 ## 5. 💽 Répartition des disques
 
