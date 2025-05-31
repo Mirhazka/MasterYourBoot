@@ -1,4 +1,4 @@
-# 🧪 Dualboot Windows 11 Famille & Kubuntu 24.04 LTS
+# 🧪 Introduction du projet : *Dualboot Windows 11 Famille & Kubuntu 24.04 LTS*
 ## 🎯 Objectif
 Ce dépôt documente la mise en place d'un système en **dualboot** avec :
 - **Windows 11 Famille**
@@ -17,13 +17,13 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 - [ ] Laboratoire virtuel avec `VirtualBox` du dualboot
 - [ ] Installation physique sur l'ordinateur du dualboot
 - [ ] Configuration post-intall (GRUB, mise à jour, pilotes, logiciels, ...)
-- [x] Rédaction du fichier `README.md`
+- [x] Rédaction du fichier [Introduction au projet](./README.md)
 - [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md)
-- [ ] Rédaction du fichier `1-install-windows11.md`
-- [ ] Rédaction du fichier `2-install-kubuntu.md`
-- [ ] Rédaction du fichier `3-configure-post-install.md`
-- [ ] Rédaction du fichier `4-laboratoire-VM.md`
-- [ ] Rédaction du fichier `5-installation-physique-PC.md`
+- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md)
+- [ ] Rédaction du fichier [Installation de Kubuntu](./2-install-kubuntu.md)
+- [ ] Rédaction du fichier [Configuration post installation](./3-configure-post-install.md)
+- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md)
+- [ ] Rédaction du fichier [Installation final sur PC](./5-installation-physique-PC.md)
 - [ ] Création du dossier `Ressources` pour les images et/ou capture d'écran
 
 ## 1. 🗂 Arborescence du dépôt 
