@@ -22,8 +22,8 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 - [ ] Rédaction du fichier `1-install-windows11.md`
 - [ ] Rédaction du fichier `2-install-kubuntu.md`
 - [ ] Rédaction du fichier `3-configure-post-install.md`
-- [ ] Rédaction du fichier `Laboratoire-VM.md`
-- [ ] Rédaction du fichier `Installation-physique-PC.md`
+- [ ] Rédaction du fichier `4-laboratoire-VM.md`
+- [ ] Rédaction du fichier `5-installation-physique-PC.md`
 - [ ] Création du dossier `Ressources` pour les images et/ou capture d'écran
 
 ## 1. 🗂 Arborescence du dépôt 
@@ -36,15 +36,15 @@ masteryourboot/
 ├── 1-install-windows11.md
 ├── 2-install-kubuntu.md
 ├── 3-configure-post-install.md
-├── Laboratoire-VM.md
-├── Installation-physique-PC.md
+├── 4-laboratoire-VM.md
+├── 5-installation-physique-PC.md
 └── Ressources/
 	├── BalenaEtcher/
-	├── Windows11/
+	├── DoubleBoot/
 	├── Kubuntu/
 	├── Laboratoire/
-	├── DoubleBoot/
-	└── Partitionnement/
+	├── Partitionnement/
+	└── Windows11/
 ```
 
 ## 2. ⚙️ Prérequis
