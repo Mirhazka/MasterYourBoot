@@ -10,21 +10,21 @@ Les problèmes rencontrés et leurs solutions sont détaillés à chaque étape.
 Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](https://www.it-connect.fr/tuto-dual-boot-windows-et-linux-ubuntu-installation-sur-pc/), que j’ai adapté à mes besoins, à ma machine et à mes préférences personnelles (distribution, partitionnement, outils…).
 
 ## 🔄 Avancement du projet
-- [x] Analyse du problème de boot sur Windows 11 Pro
-- [x] Nettoyage via la commande `bcdedit`
-- [x] Choix des OS à installer
-- [x] Planification  & répartition des disques
-- [ ] Laboratoire virtuel avec `VirtualBox` du dualboot
-- [ ] Installation physique sur l'ordinateur du dualboot
-- [ ] Configuration post-intall (GRUB, mise à jour, pilotes, logiciels, ...)
-- [x] Rédaction du fichier [Introduction au projet](./README.md)
-- [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md)
-- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md)
-- [ ] Rédaction du fichier [Installation de Kubuntu](./2-install-kubuntu.md)
-- [ ] Rédaction du fichier [Configuration post installation](./3-configure-post-install.md)
-- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md)
-- [ ] Rédaction du fichier [Installation final sur PC](./5-installation-physique-PC.md)
-- [ ] Création du dossier `Ressources` pour les images et/ou capture d'écran
+- [x] Analyse du problème de boot sur Windows 11 Pro 🟢
+- [x] Nettoyage via la commande `bcdedit` 🟢
+- [x] Choix des OS à installer 🟢
+- [x] Planification  & répartition des disques 🟢
+- [ ] Laboratoire virtuel avec `VirtualBox` du dualboot 🟡
+- [ ] Installation physique sur l'ordinateur du dualboot 🔴
+- [ ] Configuration post-install (GRUB, mise à jour, pilotes, logiciels, ...) 🔴
+- [x] Rédaction du fichier [Introduction du projet](./README.md) 🟢
+- [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md) 🟡
+- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md) 🟡
+- [ ] Rédaction du fichier [Installation de Kubuntu](./2-install-kubuntu.md) 🟡
+- [ ] Rédaction du fichier [Configuration post installation](./3-configure-post-install.md) 🟡
+- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md) 🟡
+- [ ] Rédaction du fichier [Installation finale sur PC](./5-installation-physique-PC.md) 🟡
+- [ ] Création du dossier `Ressources` pour les images et/ou capture d'écran 🔴
 
 ## 1. 🗂 Arborescence du dépôt 
 Voici comment sera organisé ce dépôt :
@@ -54,7 +54,7 @@ masteryourboot/
 - Une **clé USB** (minimum 8 Go) pour créer un support d’installation bootable.
 - Une **connexion Internet** pour les mises à jour éventuelles et les outils de téléchargement.
 - Droits d’administrateur sur le système.
-- Logiciels qui seront uitilisés :
+- Logiciels qui seront utilisés :
 	- **Balena Etcher** pour rendre la clé USB Bootable
 	- **VirtualBox** pour le laboratoire de test
 	- **GParted** pour formater la clé USB
@@ -93,7 +93,7 @@ Puis j'ai redémarré mon ordinateur, et je n'ai plus eu ce soucis.
 ### 🎯 Conclusion
 
 J’ai décidé de :
-- Réinstaller Windows et Linux proprement et avec des licences officiels
+- Réinstaller Windows et Linux proprement et avec des licences officielles
 - Les installer **sur des disques séparés**
 - Mieux comprendre et gérer le **boot EFI / partitions Recovery**
 - Avoir un système **stable, propre et durable**
@@ -136,8 +136,8 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 |---|---|---|
 |0|SSD 250 Go|Windows 11 **Famille**|
 |1|SSD 250 Go|Kubuntu|
-|2|HDD 1 To|Données + Logiciels|
-|3|HDD 1 To|Données + Logiciels|
+|2|HDD 1 To|Data I|
+|3|HDD 1 To|Data II|
 |4|NVMe 2 To|Jeux vidéo|
 
 ### 🧠 Pourquoi cette organisation ?
