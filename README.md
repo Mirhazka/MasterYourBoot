@@ -26,9 +26,9 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 - [ ] Rédaction du fichier [Installation finale sur PC](./5-installation-physique-PC.md) 🟡
 - [ ] Création du dossier `Ressources` pour les images et/ou capture d'écran 🔴
 
-🟢 : Terminée
-🟡 : En cours
-🔴 : Pas commencé
+🟢 : Terminée  
+🟡 : En cours  
+🔴 : Pas commencé  
 
 ## 1. 🗂 Arborescence du dépôt 
 Voici comment sera organisé ce dépôt :
