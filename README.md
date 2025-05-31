@@ -128,21 +128,21 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 
 |Disque|Type|Contenu|
 |---|---|---|
-|0|SSD 250 Go|Windows 11 Pro (C:), EFI, Recovery|
-|1|SSD 250 Go|Vide|
-|2|HDD 1 To|Data 1 (I:), Logiciels Windows (W:)|
-|3|HDD 1 To|Data 2 (D:), Logiciels Linux (L:)|
-|4|NVMe 2 To|Jeux vidéo (J:)|
+|0|⚡💾 SSD 250 Go|💻 Windows 11 **Pro** (EFI, FileSystem, Recovery)|
+|1|⚡💾 SSD 250 Go|➖ Vide|
+|2|🗃️📦 HDD 1 To|📂 Data 1 (750Go), Logiciels (250Go)|
+|3|🗃️📦 HDD 1 To|📂 Data 2 (750Go), Logiciels (250Go)|
+|4|🚀⚡ NVMe 2 To|🎮 Jeux vidéo |
 
 ### 🗂️ Répartition souhaitée après réinstallation
 
 |Disque|Type|Contenu|
 |---|---|---|
-|0|SSD 250 Go|Windows 11 **Famille**|
-|1|SSD 250 Go|Kubuntu|
-|2|HDD 1 To|Data I|
-|3|HDD 1 To|Data II|
-|4|NVMe 2 To|Jeux vidéo|
+|0|⚡💾 SSD 250 Go|💻 Windows 11 **Famille** (EFI, FileSystem, Recovery)|
+|1|⚡💾 SSD 250 Go|🐧 Kubuntu (EFI, FileSystem, Swap)|
+|2|🗃️📦 HDD 1 To|📂 Data I|
+|3|🗃️📦 HDD 1 To|📂 Data II|
+|4|🚀⚡ NVMe 2 To|🎮 Jeux vidéo|
 
 ### 🧠 Pourquoi cette organisation ?
 
