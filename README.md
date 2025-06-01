@@ -1,4 +1,5 @@
 # 🧪 Introduction du projet : *Dualboot Windows 11 Famille & Kubuntu 24.04 LTS*
+
 ## 🎯 Objectif
 Ce dépôt documente la mise en place d'un système en **dualboot** avec :
 - **Windows 11 Famille**
@@ -9,6 +10,7 @@ Les problèmes rencontrés et leurs solutions sont détaillés à chaque étape.
 
 Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](https://www.it-connect.fr/tuto-dual-boot-windows-et-linux-ubuntu-installation-sur-pc/), que j’ai adapté à mes besoins, à ma machine et à mes préférences personnelles (distribution, partitionnement, outils…).
 
+---
 ## 🔄 Avancement du projet
 - [x] Analyse du problème de boot sur Windows 11 Pro 🟢
  - Commencé : 29/05/2025
@@ -65,6 +67,7 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 🟡 : En cours  
 🔴 : Pas commencé  
 
+---
 ## 1. 🗂 Arborescence du dépôt 
 Voici comment sera organisé ce dépôt :
 ```
@@ -86,6 +89,7 @@ masteryourboot/
 	└── Windows11/
 ```
 
+---
 ## 2. ⚙️ Prérequis
 
 - Un PC avec un **firmware** UEFI (mode UEFI activé)
@@ -99,6 +103,7 @@ masteryourboot/
 	- **GParted** pour formater la clé USB
 
 
+---
 ## 3. 🚧 Contexte et motivation
 ### 💡 Motivation
 Depuis longtemps, je voulais avoir un dualboot Windows/Linux.
@@ -139,6 +144,7 @@ J’ai décidé de :
 - Mieux comprendre et gérer le **boot EFI / partitions Recovery**
 - Avoir un système **stable, propre et durable**
 
+---
 ## 4. 💻 Présentation de ma tour
 
 C’est **mon outil principal** pour apprendre, créer, expérimenter et me divertir.  
@@ -146,6 +152,7 @@ Je l’ai montée de mes mains, pièce par pièce, en fonction de mes besoins. J
 
 > Pour mes formations, je travaille sur un SSD externe dédié, que je branche sur les machines de l’école. Je peux ainsi **continuer mes projets techniques à domicile**.
 
+---
 ## 5. 🖴 Répartition des disques
 
 ### 📌 Actuelle
@@ -183,6 +190,7 @@ Cela présente plusieurs avantages :
 
 > C’est une approche que je trouve **plus propre, plus claire et plus durable dans le temps**, notamment dans le cadre d’un usage mixte personnel/professionnel.
 
+---
 ## 6. 🐧 Pourquoi **Kubuntu** ?
 
 Je suis habitué à l’environnement Ubuntu, que j’ai utilisé durant ma précédente formation (TSSR). J’y ai développé des automatismes avec la ligne de commande, les outils réseau, le scripting et les outils système.  
@@ -204,6 +212,7 @@ Après comparaison, **Kubuntu** s’est imposé comme le meilleur choix. Basé s
 
 En résumé, **Kubuntu combine puissance, esthétique, légèreté et efficacité**, tout en m’évitant de devoir réapprendre un environnement Linux différent alors que je suis encore en phase de montée en compétence.
 
+---
 ## 7. 🪟 Pourquoi **Windows 11 Famille** et non Pro ?
 
 Bien que la version **Professionnel** me permette de faire plus de choses d'un point de vue administration système que la version **Famille**, pour l'usage que je vais en faire, cela ne me sera pas utile.
@@ -224,6 +233,7 @@ J'ai donc choisi **Windows 11 Famille** puisque j'installe un dualboot avec **Ku
 En plus de cela, **Windows 11 Famille** est plus léger et est parfaitement **suffisant** pour mes usages du quotidien.  
 Les fonctionnalités *professionnel* dont j'aurais besoin, comme par exemple avoir la main sur les mises à jours **Windows Update**, seront géré via des scripts PowerShell.  
 
+---
 ## ⚠️ Disclaimer
 Ce projet est **personnel et pédagogique**.  
 Il ne garantit ni support officiel ni compatibilité avec toutes les configurations.  
