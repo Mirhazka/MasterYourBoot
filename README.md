@@ -79,6 +79,9 @@ Durant ma formation TSSR, j’ai utilisé **Windows 11 Pro** via une “astuce�
 > - Windows 11 sur le volume 5
 > - Windows 11 sur le volume 5
 
+![doubleboot](./Ressources/DoubleBoot/doubleboot.jpeg)
+
+
 Un seul Windows était installé, mais le chargeur de démarrage était corrompu.
 
 ### 🔧 Résolution
