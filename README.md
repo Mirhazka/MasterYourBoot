@@ -11,20 +11,55 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 
 ## 🔄 Avancement du projet
 - [x] Analyse du problème de boot sur Windows 11 Pro 🟢
+ - Commencé : 29/05/2025
+ - Terminé : 29/05/2025
 - [x] Nettoyage via la commande `bcdedit` 🟢
-- [x] Choix des OS à installer 🟢
-- [x] Planification  & répartition des disques 🟢
-- [ ] Laboratoire virtuel avec `VirtualBox` du dualboot 🟡
+ - Commencé : 29/05/2025
+ - Terminé : 29/05/2025
+- [x] Choix des OS à installer 🟢 
+ - Commencé : 29/05/2025
+ - Terminé : 29/05/2025
+- [x] Planification  & répartition des disques 🟢 
+ - Commencé : 29/05/2025
+ - Terminé : 29/05/2025
+- [ ] Laboratoire virtuel avec `VirtualBox` du dualboot 🟡 
+ - Commencé : 01/06/2025
+ - Terminé : 
+- [ ] Sauvegarde des données sur disque dur externe 🔴
+ - Commencé : 
+ - Terminé : 
 - [ ] Installation physique sur l'ordinateur du dualboot 🔴
+ - Commencé : 
+ - Terminé : 
 - [ ] Configuration post-install (GRUB, mise à jour, pilotes, logiciels, ...) 🔴
+ - Commencé : 
+ - Terminé : 
 - [x] Rédaction du fichier [Introduction du projet](./README.md) 🟢
-- [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md) 🟡
-- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md) 🟡
-- [ ] Rédaction du fichier [Installation de Kubuntu](./2-install-kubuntu.md) 🟡
-- [ ] Rédaction du fichier [Configuration post installation](./3-configure-post-install.md) 🟡
-- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md) 🟡
-- [ ] Rédaction du fichier [Installation finale sur PC](./5-installation-physique-PC.md) 🟡
-- [ ] Création du dossier `Ressources` pour les images et/ou capture d'écran 🔴
+ - Commencé : 29/05/2025
+ - Terminé : 29/05/2025
+- [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md) 🔴
+ - Commencé : 
+ - Terminé : 
+- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md) 🔴
+ - Commencé : 29/05/2025
+ - Terminé : 
+- [ ] Rédaction du fichier [Installation de Kubuntu](./2-install-kubuntu.md) 🔴
+ - Commencé : 29/05/2025
+ - Terminé : 
+- [ ] Rédaction du fichier [Configuration post installation](./3-configure-post-install.md) 🔴
+ - Commencé : 29/05/2025
+ - Terminé : 
+- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md) 🔴
+ - Commencé : 29/05/2025
+ - Terminé : 
+- [ ] Rédaction du fichier [Installation finale sur PC](./5-installation-physique-PC.md) 🔴
+ - Commencé : 29/05/2025
+ - Terminé : 
+- [x] Création du dossier `Ressources` pour les images et/ou capture d'écran 🟢
+ - Commencé : 01/06/2025
+ - Terminé : 01/06/2025
+
+*Légendes*
 
 🟢 : Terminée  
 🟡 : En cours  
