@@ -42,20 +42,20 @@ Ce projet s’appuie en grande partie sur le tutoriel publié par [IT-Connect](h
 - [ ] Rédaction du fichier [Création de la clé USB](./0-creation-cle-usb.md) 🔴
  - Commencé : 
  - Terminé : 
-- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md) 🔴
- - Commencé : 29/05/2025
+- [ ] Rédaction du fichier [Installation de Windows 11](./1-install-windows11.md) 🟡 
+ - Commencé : 02/06/2025
  - Terminé : 
 - [ ] Rédaction du fichier [Installation de Kubuntu](./2-install-kubuntu.md) 🔴
- - Commencé : 29/05/2025
+ - Commencé : 
  - Terminé : 
 - [ ] Rédaction du fichier [Configuration post installation](./3-configure-post-install.md) 🔴
- - Commencé : 29/05/2025
+ - Commencé :
  - Terminé : 
-- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md) 🔴
- - Commencé : 29/05/2025
+- [ ] Rédaction du fichier [Laboratoire virtuel](./4-laboratoire-VM.md) 🟡 
+ - Commencé : 02/06/2025
  - Terminé : 
 - [ ] Rédaction du fichier [Installation finale sur PC](./5-installation-physique-PC.md) 🔴
- - Commencé : 29/05/2025
+ - Commencé : 
  - Terminé : 
 - [x] Création du dossier `Ressources` pour les images et/ou capture d'écran 🟢
  - Commencé : 01/06/2025
